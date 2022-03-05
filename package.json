@@ -1,0 +1,20 @@
+{
+  "name": "handwriting-native-api",
+  "version": "1.0.0",
+  "description": "实现原生api的功能",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/King1376/handwriting-native-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/King1376/handwriting-native-api/issues"
+  },
+  "homepage": "https://github.com/King1376/handwriting-native-api#readme"
+}
